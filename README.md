@@ -15,10 +15,10 @@ npm install
 ## Running
 Development mode with autorefresh
 ```
-grunt serve
+grunt serve --force
 ```
 
 Build
 ```
-grunt build
+grunt build --force
 ```
