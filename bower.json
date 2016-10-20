@@ -1,0 +1,22 @@
+{
+  "name": "Green Light Test",
+  "version": "1.0.0",
+  "ignore": [
+    "**/.*",
+    "build",
+    "speed",
+    "test",
+    "*.md",
+    "AUTHORS.txt",
+    "Gruntfile.js",
+    "package.json",
+    "bower.json"
+  ],
+  "devDependencies": {
+    "angular": "~1.5.9",
+    "angular-route": "~1.5.9"
+  },
+  "dependencies": {
+
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "green-light-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Tomas Listiak",
+  "devDependencies": {
+    "connect-modrewrite": "^0.9.0",
+    "grunt": "^1.0.1",
+    "grunt-bower-task": "^0.4.0",
+    "grunt-cli": "^1.2.0",
+    "grunt-concurrent": "^2.3.1",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-mkdir": "^1.0.0",
+    "grunt-newer": "^1.2.0",
+    "grunt-sass": "^1.2.1",
+    "load-grunt-tasks": "^3.5.2",
+    "matchdep": "^1.0.1",
+    "serve-static": "^1.11.1",
+    "time-grunt": "^1.4.0"
+  }
+}
